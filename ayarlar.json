@@ -1,0 +1,33 @@
+{
+  "token": "",
+  "prefix": "l.",
+  "sahip": "801068869506433034",
+  
+    "tag": "",
+  
+  "sunucuID": "",
+  
+  "silYetkiliRolID": "",
+  "muteYetkiliRolID": "",
+  "vmuteYetkilisiRolID": "",
+  "banYetkiliRolID": "",
+  "jailYetkiliRolID": "",
+  "sesKesYetkiliRolID": "",
+  "nukeYetkiliRolID": "",
+  
+  "mutedRolID": "",
+  "mutedRolİsim": "",
+  "jailedRolID": "",
+  "jailedRolİsim": "",
+  "tagRolID": "",
+  
+  "muteLogKanalID": "",
+  "unmuteLogKanalID": "",
+  "banLogKanalID": "",
+  "unbanLogKanalID": "",
+  "vmuteLogKanalID": "",
+  "unvmuteLogKanalID": "",
+  "jailLogID": "",
+  "unjailLogID": "",
+  "tagRolLogID": ""
+}
